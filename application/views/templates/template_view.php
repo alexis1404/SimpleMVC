@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="../../../bootstrap-3.3.7-dist/css/bootstrap.css">
     <link rel="stylesheet" href="../../../css/main_page.css">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="../../../js/main_page.js"></script>
     <title>Homepage</title>
 </head>
 <body>
